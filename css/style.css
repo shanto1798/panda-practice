@@ -3,6 +3,12 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 .bg-color{
-    background-color: rgb(255, 232, 239);
+    background-color: #fceae8;
+}
+.btn-warning-color{
+    background-color: #ff3484 !important
+}
+.text-white{
+    color: #ffffff !important;
 }
 /* banner part end */
